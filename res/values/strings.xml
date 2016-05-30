@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_departments">Departments</string>
+
+
+    <string name="title_activity_computer_science">Computer Science</string>
+    <string name="my_link"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/248.pdf">Syllabus</a></string>
+    <string name="timetablecs34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/244.pdf">Time Table</a></string>
+    <string name="syllabuscs56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/249.pdf">Syllabus</a></string>
+    <string name="timetablecs56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/245.pdf">Time Table</a></string>
+    <string name="syllabuscs78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/250.pdf">Syllabus</a></string>
+    <string name="timetablecs78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/246.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_information_science">Information Science</string>
+    <string name="syllabusis34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/266.pdf">Syllabus</a></string>
+    <string name="timetableis34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/269.pdf">Time Table</a></string>
+    <string name="syllabusis56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/267.pdf">Syllabus</a></string>
+    <string name="timetableis56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/270.pdf">Time Table</a></string>
+    <string name="syllabusis78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/268.pdf">Syllabus</a></string>
+    <string name="timetableis78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/271.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_electrical">Electrical</string>
+    <string name="syllabusee34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/277.pdf">Syllabus</a></string>
+    <string name="timetableee34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/317.pdf">Time Table</a></string>
+    <string name="syllabusee56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/280.pdf">Syllabus</a></string>
+    <string name="timetableee56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/318.pdf">Time Table</a></string>
+    <string name="syllabusee78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/281.pdf">Syllabus</a></string>
+    <string name="timetableee78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/319.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_civil">Civil</string>
+    <string name="syllabuscv34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/158.pdf">Syllabus</a></string>
+    <string name="timetablecv34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/282.pdf">Time Table</a></string>
+    <string name="syllabuscv56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/159.pdf">Syllabus</a></string>
+    <string name="timetablecv56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/283.pdf">Time Table</a></string>
+    <string name="syllabuscv78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/160.pdf">Syllabus</a></string>
+    <string name="timetablecv78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/297.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_mechanical">Mechanical</string>
+    <string name="syllabusme34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/234.pdf">Syllabus</a></string>
+    <string name="timetableme34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/312.pdf">Time Table></a></string>
+    <string name="syllabusme56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/235.pdf">Syllabus</a></string>
+    <string name="timetableme56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/313.pdf">Time Table</a></string>
+    <string name="syllabusme78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/236.pdf">Syllabus</a></string>
+    <string name="timetableme78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/314.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_electronics">Electronics &amp; Communication</string>
+    <string name="syllabusec34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/114.pdf">Syllabus</a></string>
+    <string name="timetableec34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/122.pdf">Time Table</a></string>
+    <string name="syllabusec56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/115.pdf">Syllabus</a></string>
+    <string name="timetableec56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/122.pdf">Time Table</a></string>
+    <string name="syllabusec78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/116.pdf">Syllabus</a></string>
+    <string name="timetableec78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/122.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_chemical">Chemical</string>
+    <string name="syllabusch34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/170.pdf">Syllabus</a></string>
+    <string name="timetablech34"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/261.pdf">Time Table</a></string>
+    <string name="syllabusch56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/171.pdf">Syllabus</a></string>
+    <string name="timetablech56"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/263.pdf">Time Table</a></string>
+    <string name="syllabusch78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/172.pdf">Syllabus</a></string>
+    <string name="timetablech78"><a href="http://sdmcet.ac.in/sdmspace/webdeptdetails/wdd/263.pdf">Time Table</a></string>
+
+
+    <string name="title_activity_common">1st Year</string>
+    <string name="syllabusp1"><a href="http://sdmcet.ac.in/sdmspace/sdmdisclosures/sdmdis/127.pdf">Syllabus</a></string>
+    <string name="timetablep1"><a href="http://sdmcet.ac.in/sdmspace/sdmdisclosures/sdmdis/181.pdf">Time Table</a></string>
+    <string name="syllabusc1"><a href="http://sdmcet.ac.in/sdmspace/sdmdisclosures/sdmdis/127.pdf">Syllabus</a></string>
+    <string name="timetablec1"><a href="http://sdmcet.ac.in/sdmspace/sdmdisclosures/sdmdis/182.pdf">Time Table</a></string>
+
+</resources>
